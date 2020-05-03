@@ -1,6 +1,6 @@
 # tradingview-demo
 
-> Usage for JS API
+> Usage for [JS API](https://b.aitrade.ga/books/tradingview/book/JS-Api.html)
 
 ## Project setup
 ```
