@@ -1,5 +1,7 @@
 # tradingview-demo
 
+> Usage for JS API
+
 ## Project setup
 ```
 npm install
